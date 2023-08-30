@@ -10,15 +10,17 @@ Contributions
 License**
 
 **Introduction**
+
 FreeRTOS is widely used in embedded systems to manage multiple tasks concurrently, allowing developers to create applications with predictable behavior and real-time responsiveness. This repository aims to provide a set of practical examples for implementing FreeRTOS on the STM32F334 microcontroller platform.
 
 
 **Getting Started**
+
 To begin using the code examples in this repository, follow these steps:
 
 Clone the Repository: Start by cloning this repository to your local machine using the following command:
 
-git clone [https://github.com/your-username/FreeRTOS-STM32F334.git](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334.git)
+git clone https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334.git
 
 Hardware Setup: Connect your STM32F334 development board to your computer via the appropriate interface (e.g., USB, UART, etc.).
 
