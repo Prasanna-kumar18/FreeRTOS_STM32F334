@@ -23,6 +23,7 @@ To start using the code examples in this repository, follow these steps:
 
 ```bash
 git clone https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334.git
+```
 
 Hardware Setup
 Connect your STM32F334 development board to your computer via the appropriate interface (e.g., USB, UART, etc.).
