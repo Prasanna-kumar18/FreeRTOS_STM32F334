@@ -3,10 +3,15 @@
 This repository contains a collection of code examples and projects demonstrating the usage of FreeRTOS on the STM32F334 microcontroller. FreeRTOS is a popular real-time operating system kernel that simplifies the development of complex applications by providing task scheduling, inter-task communication, and synchronization primitives.
 
 **Table of Contents
+
 Introduction
+
 Getting Started
+
 Examples
+
 Contributions
+
 License**
 
 **Introduction**
