@@ -5,9 +5,13 @@ This repository contains a collection of code examples and projects demonstratin
 **Table of Contents**
 
 Introduction
+
 Getting Started
+
 Examples
+
 Contributions
+
 License
 
 **Introduction**
