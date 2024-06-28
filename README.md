@@ -37,19 +37,19 @@ Navigate to the desired example project folder and use your toolchain to build t
 ## Examples
 Explore a variety of examples demonstrating different aspects of FreeRTOS on the STM32F334 platform. Each example is contained in its own folder and includes a README file with details about its functionality. Some of the included examples are:
 
-5_Software_Timer: Introduces the concept of software timers in FreeRTOS.
+[4_Software_Timer](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334/tree/main/4.0_Software_Timer) : Introduces the concept of software timers in FreeRTOS.
 
-6_Queue: Shows how to use message queues or other communication mechanisms between tasks.
+[5_Queue](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334/tree/main/5.0_Queue_Basic-int-data-sharing) : Shows how to use message queues or other communication mechanisms between tasks.
 
-6.1.1_Binary Semaphore: Demonstrates safe resource sharing between tasks using Semaphore.
+[6.1.1_Binary Semaphore](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334/tree/main/6.1.1_Binary_Semaphore_same_priority) : Demonstrates safe resource sharing between tasks using Semaphore.
 
-6.2_Counting Semaphore: Demonstrates safe resource sharing between tasks using Semaphore.
+[6.2_Counting Semaphore](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334/tree/main/6.2_Counting_Semaphore) : Demonstrates safe resource sharing between tasks using Semaphore.
 
-6.3_Mutex: Shows how to safely use shared resources using Mutual Exclusion.
+[6.3_Mutex](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334/tree/main/6.3_Mutex) : Shows how to safely use shared resources using Mutual Exclusion.
 
-6.4_Priority_inversion_Solution-with Mutes
+[6.4_Priority_inversion_Solution-with Mutes](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334/tree/main/6.4_Priority_inversion_Solution-with-Mutex)
 
-6.5 Deadlock With Mutex: Demonstrates the deadlock between tasks while using the same shared resources using mutex.
+[6.5 Deadlock With Mutex](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334/tree/main/6.5_Deadlock-with-Mutex) : Demonstrates the deadlock between tasks while using the same shared resources using mutex.
 
 ## Contributions
 Contributions to this repository are welcome! If you have an improvement to an existing example or want to add a new example related to FreeRTOS on STM32F334, please open a pull request. Be sure to follow the existing coding style and provide clear documentation for your contribution.
