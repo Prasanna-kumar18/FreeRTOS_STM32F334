@@ -47,7 +47,7 @@ Explore a variety of examples demonstrating different aspects of FreeRTOS on the
 
 [6.3_Mutex](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334/tree/main/6.3_Mutex) : Shows how to safely use shared resources using Mutual Exclusion.
 
-[6.4_Priority_inversion_Solution-with Mutes](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334/tree/main/6.4_Priority_inversion_Solution-with-Mutex)
+[6.4_Priority_inversion_Solution-with Mutex](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334/tree/main/6.4_Priority_inversion_Solution-with-Mutex) : prevent priority inversion by temporarily raising the priority of a lower-priority task holding a mutex needed by a higher-priority task.
 
 [6.5 Deadlock With Mutex](https://github.com/Prasanna-kumar18/FreeRTOS_STM32F334/tree/main/6.5_Deadlock-with-Mutex) : Demonstrates the deadlock between tasks while using the same shared resources using mutex.
 
